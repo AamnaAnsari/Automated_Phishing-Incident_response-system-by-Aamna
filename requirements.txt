@@ -1,0 +1,9 @@
+python-dotenv>=1.0
+requests>=2.31
+langchain-core>=0.3
+pydantic>=2.0
+# Apna ek LLM provider rakho (baaki delete/comment karo):
+langchain-groq
+# langchain-google-genai
+# langchain-openai
+pytest>=8.0

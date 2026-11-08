@@ -1,0 +1,18 @@
+# Sensitive configuration files
+.env
+config.json
+
+# Virtual Environment and Python Cache
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyw
+*.pyz
+
+# Local data and phishing artifacts
+data/
+emails/
+outputs/
+storage/
